@@ -10,9 +10,11 @@
 }
 body{
  background: rebeccapurple;
-  min-height: 150vh;
+  min-height: 110vh;
 }
-
+.hidden{
+  display: none;
+}
 
 .top-img{
     background-image: url("images/bg-mobile.svg");
